@@ -12,7 +12,7 @@ import amino
 email=input("Email/Почта:")
 password=input("Password/Пароль:")
 chatid=input("Type chatid/Введите чат айди:")
-comid='156542274'
+comid=input("Type comid/Введите айди сообщества:")
 #клиент логин это вход бота в аккаунт
 client = amino.Client() 
 client.login(email=email, password=password)
