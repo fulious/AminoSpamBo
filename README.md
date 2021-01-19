@@ -5,8 +5,8 @@ Chat Spammer for Amino/Спаммер чата для Amino
 # Termux 
 - apt update -y 
 - apt upgrade -y 
-- apt install python 
-- apt install python2 
+- pkg install python 
+- pkg install python2 
 - pip install colorama 
 - pip install amino.py 
 - git clone https://github.com/LilZevi/AminoSpamBo
